@@ -10,10 +10,6 @@ I am a real nice person and my hobby is to code
  
 [![Follow](https://img.shields.io/github/followers/Thunderbolt1337?logo=github&style=for-the-badge)](https://github.com/Thunderbolt1337?tab=followers)
 
-**View My Github:**&nbsp; 
-
-[![Avatar](https://komarev.com/ghpvc/?username=Thunderbolt1337)](https://github.com/Thunderbolt1337)
-
 **Join My Discord:**&nbsp; 
 
 [![Server](https://img.shields.io/discord/790938885365563392?label=THUNDERFN%20%20%20%7C%20%20%20Server&logo=discord&style=for-the-badge)]()
