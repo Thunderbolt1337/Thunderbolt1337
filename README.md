@@ -8,7 +8,7 @@ I am a real nice person and my hobby is to code
 
 **Follow My Github:**&nbsp;
  
-[![Follow](https://img.shields.io/github/followers/sintya4?logo=github&style=for-the-badge)](https://github.com/Sintya4?tab=followers)
+[![Follow](https://img.shields.io/github/followers/sintya4?logo=github&style=for-the-badge)](https://github.com/Thunderbolt1337?tab=followers)
 
 **View My Github:**&nbsp; 
 
