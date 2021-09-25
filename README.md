@@ -3,7 +3,7 @@
 
 I am a real nice person and my hobby is to code
 - 🌱 I’m currently learning React
-- 💬 Ask me about anything [here](https://dsc.gg/mincoder)
+- 💬 Ask me about anything [here]()
 - 🥅 2021 Goals: make some awesome Discord Bots
 
 **Follow My Github:**&nbsp;
