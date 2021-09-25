@@ -23,7 +23,7 @@ I am a real nice person and my hobby is to code
 <p align="center">
 <img src="https://img.shields.io/badge/PYTHON-black?style=for-the-badge&logo=python" />
 <img src="https://img.shields.io/badge/Node.JS-black?style=for-the-badge&logo=node.js" />
-<img src="https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=HTML5" />
+<img src="https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=HTML" />
 <img src="https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript" />
 </p>
  
