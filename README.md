@@ -12,7 +12,7 @@ I am a real nice person and my hobby is to code
 
 **View My Github:**&nbsp; 
 
-[![Avatar](https://komarev.com/ghpvc/?username=ThunderBolt)](https://github.com/Thunderbolt1337)
+[![Avatar](https://komarev.com/ghpvc/?username=Thunderbolt1337)](https://github.com/Thunderbolt1337)
 
 **Join My Discord:**&nbsp; 
 
