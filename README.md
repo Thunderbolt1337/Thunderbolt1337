@@ -12,12 +12,7 @@ I am a real nice person and my hobby is to code
 
 **Join My Discord:**&nbsp; 
 
-[![Server](https://img.shields.io/discord/790938885365563392?label=THUNDERFN%20%20%20%7C%20%20%20Server&logo=discord&style=for-the-badge)]()
-
-**My discord avatar:**&nbsp; 
-[![Avatar](https://discord.c99.nl/widget/theme-3/.png)]()
-
-
+[![Server](https://img.shields.io/discord/894540030792577084?label=THUNDERCOMUNITY%20%20%20%7C%20%20%20Server&logo=discord&style=for-the-badge)](https://discord.gg/jVjDtZaDb8)
 
 **Languages and Tools:** &nbsp;
 <p align="center">
@@ -30,7 +25,7 @@ I am a real nice person and my hobby is to code
 
 <p align="center">
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thunderbolt1337&show_icons=true&layout=compact&hide_border=true&theme=dark" />
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Thunderbolt1337&show_icons=true&theme=dark&line_height=21" alt="Sintya4' github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Thunderbolt1337&show_icons=true&theme=dark&line_height=21" alt="Thunderbolt1337' github stats"/>
 </p>
  
 
